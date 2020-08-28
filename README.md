@@ -12,7 +12,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love Programming,Reading Books and listening to music.
 
 - 📫 How to Connect with me:
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]<br />
-
----
