@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love Programming,Reading Books and listening to music.
 
 - 📫 How to reach me: ...
+
+<i class="fas fa-vuejs    "></i>
