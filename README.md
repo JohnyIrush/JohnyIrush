@@ -11,11 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... How to get a programming job
 - ⚡ Fun fact: ... I love Programming,Reading Books and listening to music.
 
-- 📫 How to reach me: ...
+- 📫 How to Connect with me:
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
