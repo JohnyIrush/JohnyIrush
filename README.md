@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-[1.1]: https://johnyirush.github.io/images/linkedin.jpg =250x250
+[1.1]: https://johnyirush.github.io/images/linkedin.jpg 
 [2.1]: https://johnyirush.github.io/images/pintrest.png
 
 [1]: https://www.linkedin.com/in/john-irungu-2706b119a/
