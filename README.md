@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 ### How To Find Me:
 
-[linkedin](https://www.linkedin.com/in/john-irungu-2706b119a/)
-[pinterest](https://www.pinterest.com/johnydanxin)
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -23,10 +21,6 @@ Here are some ideas to get you started:
 [![alt text][6.1]][6]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
