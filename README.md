@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 [1.1]: https://johnyirush.github.io/images/linkedin.jpg
-[2.1]: http://i.imgur.com/P3YfQoD.png 
+[2.1]: https://johnyirush.github.io/images/pintrest.png
 [3.1]: http://i.imgur.com/yCsTjba.png 
 
 							
