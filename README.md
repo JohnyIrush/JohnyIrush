@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 
 ### How To Find Me:
 
-[![alt text][1.1]]
-[![alt text][2.1]]
-[![alt text][3.1]]
-[![alt text][4.1]]
-[![alt text][5.1]]
-[![alt text][6.1]]
+![alt text][1.1]
+![alt text][2.1]
+![alt text][3.1]
+![alt text][4.1]
+![alt text][5.1]
+![alt text][6.1]
 
 
 
