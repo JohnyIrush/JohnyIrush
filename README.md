@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... My new Website Project
+- 🔭 I’m currently working on My Algorithm Skills
 - 🌱 I’m currently learning ...java and kotlin
 - 👯 I’m looking to collaborate on ... laravel and vuejs
-- 🤔 I’m looking for help with ... How to get a programming job
+- 🤔 I’m looking for help with ... How to Assign directions to edges so that the directed graph remains acyclic
 - ⚡ Fun fact: ... I love Programming,Reading Books and listening to music.
 
 ### Languages That I use:
