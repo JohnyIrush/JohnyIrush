@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Algorithm Skills
-- 🌱 I’m currently learning ...java and kotlin
-- 👯 I’m looking to collaborate on ... laravel and vuejs
+- 🔭 I’m currently working for a client
+- 🌱 I’m currently working on my startup
+- 👯 I’m looking to collaborate on blockchain
 - 🤔 I’m looking for help with ... How to Assign directions to edges so that the directed graph remains acyclic
 - ⚡ Fun fact: ... I love Programming,Reading Books and listening to music.
 
@@ -23,5 +23,15 @@ Here are some ideas to get you started:
 ### Frameworks That I use:
 1.Laravel.
 2.Vuejs.
-3.Bootstrap
-4.Jquery.
+3.Spring Boot
+4. Reactjs
+5. Codeigniter
+6. CodenameOne
+7. Android(java/kotlin)
+Librariies
+1.Bootstrap
+2.Jquery.
+cms
+1. wordpress
+2. drupal
+3. wix
